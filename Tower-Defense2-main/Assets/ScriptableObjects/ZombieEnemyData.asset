@@ -17,8 +17,8 @@ MonoBehaviour:
   runSpeed: 0.01
   attackDuration: 1
   attackCooldown: 1
-  dieSoundName: zombie_die
-  attackSoundName: zombie_attack
+  dieSoundName: ZombieDieSound
+  attackSoundName: ZombieAttackSound
   primaryTargetTag: Tower
   runAnimationName: Running
   attackAnimationName: Attack
